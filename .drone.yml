@@ -8,7 +8,7 @@
   #  corp_secret:
   #    from_secret: wechat_corp_secret_approval
   settings:
-    corpid: ww55f9d11848308ad5
+    corpid: 
     corp_secret: Cj41NiPNRMpFBeu37AOBMMrUO0uI_kkDzws9c0aD3to
     template_id: Bs5NGcoanqFkaE8p4sJkVaD84bf2vyo3qhWDPnhiX
     registry_name: harbor.cechealth.cn
