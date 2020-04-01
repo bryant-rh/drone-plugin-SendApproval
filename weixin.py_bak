@@ -270,8 +270,8 @@ def GetTemplateDetail(Token, Template_id):
     return r.text
 
 if __name__ == "__main__":
-   Corpid = 'ww55f9d11848308ad5' 
-   Secret = 'Cj41NiPNRMpFBeu37AOBMMrUO0uI_kkDzws9c0aD3to'
+   Corpid = '' 
+   Secret = ''
    Template_id = 'Bs5NGcoanqFkaE8p4sJkVaD84bf2vyo3qhWDPnhiX'
    Project_name = 'bdp-gateway'
    Branch_name = 'master'
