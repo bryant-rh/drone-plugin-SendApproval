@@ -276,7 +276,7 @@ if __name__ == "__main__":
    Project_name = 'bdp-gateway'
    Branch_name = 'master'
    Branch_commit = 'update aaaa'
-   Image_name = 'harbor.cechealth.cn/bdp-gateway'
+   Image_name = 'harbor.example.cn/bdp-gateway'
    Image_tag = '1.0-prod'
    #Template_id = '3TkapVW8vzRu2idGuDD92gitVjsNqyNQ6QCPgkRa'
    Creator_userid = 'WangRuiHua'
